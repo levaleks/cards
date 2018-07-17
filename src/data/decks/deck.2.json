@@ -1,0 +1,530 @@
+[
+  {
+    "word": "afraid",
+    "translation": "боящийся"
+  },
+  {
+    "word": "angry",
+    "translation": "злой"
+  },
+  {
+    "word": "annoyed",
+    "translation": "раздосадованный"
+  },
+  {
+    "word": "antique shop",
+    "translation": "антикварный магазин"
+  },
+  {
+    "word": "bad-tempered",
+    "translation": "раздражительный"
+  },
+  {
+    "word": "(to) become",
+    "translation": "становиться"
+  },
+  {
+    "word": "bored",
+    "translation": "скучающий"
+  },
+  {
+    "word": "boring",
+    "translation": "скучный"
+  },
+  {
+    "word": "boyfriend",
+    "translation": "любимый парень"
+  },
+  {
+    "word": "disappointed",
+    "translation": "разочарованный"
+  },
+  {
+    "word": "easygoing",
+    "translation": "покладистый, благодушный"
+  },
+  {
+    "word": "engineer",
+    "translation": "инженер"
+  },
+  {
+    "word": "excited",
+    "translation": "возбужденный, взволнованный"
+  },
+  {
+    "word": "generous",
+    "translation": "щедрый"
+  },
+  {
+    "word": "(to) grow up",
+    "translation": "вырасти "
+  },
+  {
+    "word": "in a hurry",
+    "translation": "в спешке"
+  },
+  {
+    "word": "be (was, were, been)",
+    "translation": "быть, являться"
+  },
+  {
+    "word": "become (became, become)",
+    "translation": "становиться"
+  },
+  {
+    "word": "begin (began, begun)",
+    "translation": "начинать"
+  },
+  {
+    "word": "build (built, built)",
+    "translation": "строить"
+  },
+  {
+    "word": "buy (bought, bought)",
+    "translation": "покупать"
+  },
+  {
+    "word": "come (came, come)",
+    "translation": "приходить"
+  },
+  {
+    "word": "do (did, done)",
+    "translation": "делать,  выполнять"
+  },
+  {
+    "word": "drive (drove, driven)",
+    "translation": "ездить"
+  },
+  {
+    "word": "eat (ate, eaten)",
+    "translation": "есть,  поглощать"
+  },
+  {
+    "word": "fall (fell, fallen)",
+    "translation": "падать"
+  },
+  {
+    "word": "give (gave, given)",
+    "translation": "дать, подать"
+  },
+  {
+    "word": "lay (laid, laid)",
+    "translation": "класть, положить"
+  },
+  {
+    "word": "lead (led, led)",
+    "translation": "сопровождать, руководить"
+  },
+  {
+    "word": "lose (lost, lost)",
+    "translation": "терять, лишаться"
+  },
+  {
+    "word": "mean (meant, meant)",
+    "translation": "значить, иметь в виду"
+  },
+  {
+    "word": "(to) keep",
+    "translation": "оставлять себе"
+  },
+  {
+    "word": "(to) lie",
+    "translation": "лежать"
+  },
+  {
+    "word": "mall",
+    "translation": "комплекс магазинов"
+  },
+  {
+    "word": "nervous",
+    "translation": "нервный"
+  },
+  {
+    "word": "paint",
+    "translation": "красить"
+  },
+  {
+    "word": "(to) pass",
+    "translation": "сдавать"
+  },
+  {
+    "word": "postcard",
+    "translation": "открытка"
+  },
+  {
+    "word": "potatoes",
+    "translation": "картофель"
+  },
+  {
+    "word": "present",
+    "translation": "подарок"
+  },
+  {
+    "word": "relaxed",
+    "translation": "расслабленный"
+  },
+  {
+    "word": "selfish",
+    "translation": "эгоистичный"
+  },
+  {
+    "word": "(to) serve",
+    "translation": "подавать на стол"
+  },
+  {
+    "word": "shy",
+    "translation": "стеснительный"
+  },
+  {
+    "word": "sick",
+    "translation": "больной"
+  },
+  {
+    "word": "(to) slip",
+    "translation": "поскользнуться"
+  },
+  {
+    "word": "small",
+    "translation": "маленький"
+  },
+  {
+    "word": "soccer",
+    "translation": "футбол"
+  },
+  {
+    "word": "(to) stay calm",
+    "translation": "быть спокойным"
+  },
+  {
+    "word": "subject",
+    "translation": "изучаемый предмет"
+  },
+  {
+    "word": "(to) talk",
+    "translation": "разговаривать"
+  },
+  {
+    "word": "tired",
+    "translation": "уставший"
+  },
+  {
+    "word": "toy",
+    "translation": "игрушка"
+  },
+  {
+    "word": "vacation",
+    "translation": "отпуск"
+  },
+  {
+    "word": "village",
+    "translation": "деревня"
+  },
+  {
+    "word": "waitress",
+    "translation": "официантка"
+  },
+  {
+    "word": "water",
+    "translation": "вода"
+  },
+  {
+    "word": "(to) wear",
+    "translation": "носить"
+  },
+  {
+    "word": "(to) yell",
+    "translation": "кричать"
+  },
+  {
+    "word": "iritated",
+    "translation": "раздраженный"
+  },
+  {
+    "word": "bite (bit,bitten)",
+    "translation": "кусать"
+  },
+  {
+    "word": "blow (blew,blown)",
+    "translation": "дуть,выдыхать"
+  },
+  {
+    "word": "break (broke,broken)",
+    "translation": "ломать,разбивать"
+  },
+  {
+    "word": "bring (brought,brought)",
+    "translation": "приносить,привозить"
+  },
+  {
+    "word": "catch (caught,caught)",
+    "translation": "ловить,поймать"
+  },
+  {
+    "word": "choose (chose,chosen)",
+    "translation": "выбирать,избирать"
+  },
+  {
+    "word": "cost (cost,cost)",
+    "translation": "стоить,обходиться"
+  },
+  {
+    "word": "cut (cut,cut)",
+    "translation": "резать,разрезать"
+  },
+  {
+    "word": "deal (dealt,dealt)",
+    "translation": "иметь дело,распределять"
+  },
+  {
+    "word": "dig (dug,dug)",
+    "translation": "копать,рыть"
+  },
+  {
+    "word": "draw (drew,drawn)",
+    "translation": "рисовать,чертить"
+  },
+  {
+    "word": "drink (drank,drunk)",
+    "translation": "пить"
+  },
+  {
+    "word": "feed (fed,fed)",
+    "translation": "кормить"
+  },
+  {
+    "word": "fight (fought,fought)",
+    "translation": "драться,сражаться"
+  },
+  {
+    "word": "find (found,found)",
+    "translation": "находить,обнаруживать"
+  },
+  {
+    "word": "fly (flew,flown)",
+    "translation": "летать"
+  },
+  {
+    "word": "forget (forgot,forgotten)",
+    "translation": "забывать о (чём-либо)"
+  },
+  {
+    "word": "forgive (forgave,forgiven)",
+    "translation": "прощать"
+  },
+  {
+    "word": "get (got,got)",
+    "translation": "получать,добираться"
+  },
+  {
+    "word": "go (went,gone)",
+    "translation": "идти,двигаться"
+  },
+  {
+    "word": "grow (grew,grown)",
+    "translation": "расти,вырастать"
+  },
+  {
+    "word": "hang (hung,hung)",
+    "translation": "вешать,развешивать"
+  },
+  {
+    "word": "have (had,had)",
+    "translation": "иметь, обладать"
+  },
+  {
+    "word": "hear (heard,heard)",
+    "translation": "слышать, услышать"
+  },
+  {
+    "word": "hide (hid,hidden)",
+    "translation": "прятать, скрывать"
+  },
+  {
+    "word": "hit (hit,hit)",
+    "translation": "ударять, поражать"
+  },
+  {
+    "word": "hold (held,held)",
+    "translation": "держать, удерживать"
+  },
+  {
+    "word": "hurt (hurt,hurt)",
+    "translation": "ранить, причинять боль"
+  },
+  {
+    "word": "keep (kept,kept)",
+    "translation": "хранить, сохранять"
+  },
+  {
+    "word": "leave (left,left)",
+    "translation": "покидать, уходить"
+  },
+  {
+    "word": "lend (lent,lent)",
+    "translation": "одалживать, давать взаймы"
+  },
+  {
+    "word": "let (let,let)",
+    "translation": "позволять, разрешать"
+  },
+  {
+    "word": "lie (lay,lain)",
+    "translation": "лежать"
+  },
+  {
+    "word": "make (made,made)",
+    "translation": "делать, создавать"
+  },
+  {
+    "word": "meet (met,met)",
+    "translation": "встречать, знакомиться"
+  },
+  {
+    "word": "pay (paid,paid)",
+    "translation": "платить, оплачивать"
+  },
+  {
+    "word": "put (put,put)",
+    "translation": "ставить, класть"
+  },
+  {
+    "word": "read (read,read)",
+    "translation": "читать, прочитать"
+  },
+  {
+    "word": "ride (rode,ridden)",
+    "translation": "ехать верхом, кататься"
+  },
+  {
+    "word": "ring (rang,rung)",
+    "translation": "звенеть, звонить"
+  },
+  {
+    "word": "rise (rose,risen)",
+    "translation": "вставать, подниматься"
+  },
+  {
+    "word": "run (ran,run)",
+    "translation": "бежать, бегать"
+  },
+  {
+    "word": "say (said,said)",
+    "translation": "говорить, сказать"
+  },
+  {
+    "word": "see (saw,seen)",
+    "translation": "видеть"
+  },
+  {
+    "word": "sell (sold,sold)",
+    "translation": "продавать, торговать"
+  },
+  {
+    "word": "send (sent,sent)",
+    "translation": "посылать, отправлять"
+  },
+  {
+    "word": "set (set,set)",
+    "translation": "устанавливать, задавать"
+  },
+  {
+    "word": "shake (shook,shaken)",
+    "translation": "трясти, встряхивать"
+  },
+  {
+    "word": "shine (shone,shone)",
+    "translation": "светить, сиять"
+  },
+  {
+    "word": "show (showed,shown)",
+    "translation": "показывать"
+  },
+  {
+    "word": "shut (shut,shut)",
+    "translation": "закрывать, запирать"
+  },
+  {
+    "word": "sing (sang,sung)",
+    "translation": "петь, напевать"
+  },
+  {
+    "word": "sit (sat,sat)",
+    "translation": "сидеть, садиться"
+  },
+  {
+    "word": "sleep (slept,slept)",
+    "translation": "спать"
+  },
+  {
+    "word": "speak (spoke,spoken)",
+    "translation": "говорить, разговаривать"
+  },
+  {
+    "word": "spend (spent,spent)",
+    "translation": "тратить, расходовать"
+  },
+  {
+    "word": "stand (stood,stood)",
+    "translation": "стоять"
+  },
+  {
+    "word": "steal (stole,stolen)",
+    "translation": "воровать, красть"
+  },
+  {
+    "word": "swear (swore,swore)",
+    "translation": "клясться, присягать"
+  },
+  {
+    "word": "sweep (swept,swept)",
+    "translation": "мести, подметать"
+  },
+  {
+    "word": "swim (swam,swum)",
+    "translation": "плавать, плыть"
+  },
+  {
+    "word": "take (took,taken)",
+    "translation": "брать, хватать"
+  },
+  {
+    "word": "teach (taught,taught)",
+    "translation": "учить, обучать"
+  },
+  {
+    "word": "tear (tore,torn)",
+    "translation": "рвать, отрывать"
+  },
+  {
+    "word": "tell (told,told)",
+    "translation": "рассказывать"
+  },
+  {
+    "word": "think (thought,thought)",
+    "translation": "думать, мыслить"
+  },
+  {
+    "word": "throw (threw,thrown)",
+    "translation": "бросать, кидать"
+  },
+  {
+    "word": "understand (understood,understood)",
+    "translation": "понимать, постигать"
+  },
+  {
+    "word": "wake (woke,woken)",
+    "translation": "просыпаться, будить"
+  },
+  {
+    "word": "wear (wore,worn)",
+    "translation": "носить (одежду)"
+  },
+  {
+    "word": "win (won,won)",
+    "translation": "победить, выиграть"
+  },
+  {
+    "word": "wind (wound,wound)",
+    "translation": "наматывать,заводить"
+  }
+]
