@@ -30,7 +30,6 @@
 
 <script lang="ts">
   import { Component, Vue } from 'vue-property-decorator';
-  import Card from '../interfaces/Card';
   import Dictionary from '../services/dictionary';
   import deck from '../data/decks/deck.1.json';
 
